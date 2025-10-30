@@ -129,45 +129,45 @@ body {
 
 /* 第一部分：收入增长 - 城乡对比 */
 .part_1::before {
-    background-image: url('images/cityvscountry.png'); 
+    background-image: url('cityvscountry.png'); 
 }
 
 /* 第二部分：收入结构 - 工作场景 */
 .part_2::before {
-    background-image: url('images/income-structure.jpg'); 
+    background-image: url('income-structure.jpg'); 
     background-color: #f8f8f8;
 }
 
 /* 第三部分：收入分配 - 公平天平 */
 .part_3::before {
-    background-image: url('images/income-distribution.jpg'); 
+    background-image: url('income-distribution.jpg'); 
 }
 
 /* 第四部分：消费升级 - 购物消费 */
 .part_4::before {
-    background-image: url('images/consumption.jpg');
+    background-image: url('consumption.jpg');
     background-color: #fafafa;
 }
 
 /* 第五部分：食品消费 - 健康食品 */
 .part_5::before {
-    background-image: url('images/food-consumption.jpg');
+    background-image: url('food-consumption.jpg');
 }
 
 /* 第六部分：生活质量 - 现代家居 */
 .part_6::before {
-    background-image: url('images/home-appliances.jpg'); 
+    background-image: url('home-appliances.jpg'); 
     background-color: #f8f8f8;
 }
 
 /* 第七部分：媒体视角 - 新闻报道 */
 .part_7::before {
-    background-image: url('images/media-news.jpg');
+    background-image: url('media-news.jpg');
 }
 
 /* 总结部分 - 未来展望 */
 .part_summary::before {
-    background-image: url('images/future-outlook.jpg');
+    background-image: url('future-outlook.jpg');
 }
 
 .container {
